@@ -47,4 +47,4 @@ Find the project link here: [Check the repository on GitHub](https://github.com/
 <!-- CONTACT -->
 ## Follow me on LinkedIn
 
-Sameera Wijerathne - [@LinkedIn](https://www.linkedin.com/in/sameerawijerathne/)
+Rajitha Jayarathne - [@LinkedIn](https://www.linkedin.com/in/rajitha-jayarathne-3b4a7627a/)
